@@ -1,0 +1,12 @@
+div{
+    border:1px solid silver;
+    padding: 10px 10px; 
+  }
+
+.row{
+    margin-bottom: 14px; 
+}
+
+.container{
+    background-color: rgb(147, 147, 182); 
+}
