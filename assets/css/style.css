@@ -1,3 +1,8 @@
+.view {
+    background: url("https://mdbootstrap.com/img/Photos/Others/img (50).jpg")no-repeat center center;
+    background-size: cover;
+}
+
 div{
     border:1px solid silver;
     padding: 10px 10px; 
@@ -10,3 +15,7 @@ div{
 .container{
     background-color: rgb(147, 147, 182); 
 }
+
+/* #apod_img_id {
+    align-content: center;
+} */
